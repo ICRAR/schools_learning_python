@@ -1,0 +1,2 @@
+jupyter
+pip>=9.0
