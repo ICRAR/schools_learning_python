@@ -14,3 +14,9 @@ To run part 1 click on the button below:
 To run part 1 click on the button below:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ICRAR/schools_learning_python.git/master?filepath=Lancelin-Primary-School-1.ipynb)
+
+## MALA
+
+To run part 1 click on the button below:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ICRAR/schools_learning_python.git/master?filepath=MALA-1.ipynb)
